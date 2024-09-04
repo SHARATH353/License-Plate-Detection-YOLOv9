@@ -6,4 +6,6 @@ Sample Video:
 https://github.com/user-attachments/assets/c3f42c57-fcf6-4968-8240-21d84a29340c
 
 **Data**
-The Dataset i have used from here.[Link}(https://universe.roboflow.com/search?q=model%3Ayolov9+license+plate+detection)
+
+The Dataset i have used from here.
+[Link}(https://universe.roboflow.com/search?q=model%3Ayolov9+license+plate+detection)
