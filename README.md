@@ -9,3 +9,11 @@ https://github.com/user-attachments/assets/c3f42c57-fcf6-4968-8240-21d84a29340c
 
 The Dataset i have used from here.
 [Link](https://universe.roboflow.com/search?q=model%3Ayolov9+license+plate+detection)
+
+**Model**
+
+A Yolov9 pre-trained model was used to detect vehicles.YOLOv9 marks a significant advancement in real-time object detection, introducing groundbreaking techniques such as Programmable Gradient Information (PGI) and the Generalized Efficient Layer Aggregation Network (GELAN).
+
+A licensed plate detector was used to detect license plates. The model was trained with Yolov9 using the above dataset.
+
+The details about this model is available here.[Link]{https://docs.ultralytics.com/models/yolov9/}
