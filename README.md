@@ -16,4 +16,4 @@ A Yolov9 pre-trained model was used to detect vehicles.YOLOv9 marks a significan
 
 A licensed plate detector was used to detect license plates. The model was trained with Yolov9 using the above dataset.
 
-The details about this model is available here.[Link]{https://docs.ultralytics.com/models/yolov9/}
+The details about this model is available here.[Link](https://docs.ultralytics.com/models/yolov9/)
